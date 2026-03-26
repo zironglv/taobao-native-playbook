@@ -4,6 +4,7 @@ export default defineConfig({
   title: '淘宝桌面版×玩虾集',
   description: 'OpenClaw 案例库 - 让 AI 助手帮你玩转淘宝',
   lang: 'zh-CN',
+  base: '/taobao-native-playbook/',
   
   head: [
     ['meta', { name: 'theme-color', content: '#ff6b00' }],
