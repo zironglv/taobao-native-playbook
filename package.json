@@ -1,0 +1,17 @@
+{
+  "name": "taobao-native-playbook",
+  "version": "1.0.0",
+  "description": "淘宝桌面版×玩虾集 - OpenClaw 案例库",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["openclaw", "taobao", "ai-assistant"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
