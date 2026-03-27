@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff7ed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffedd5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff9500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="400" height="300" fill="url(#bgGrad)" rx="20"/>
+  
+  <!-- 购物袋 -->
+  <rect x="120" y="80" width="160" height="140" rx="10" fill="url(#orangeGrad)"/>
+  <rect x="140" y="60" width="120" height="30" rx="5" fill="#ea580c"/>
+  <path d="M155 60 Q155 40 200 40 Q245 40 245 60" stroke="#ea580c" stroke-width="8" fill="none"/>
+  
+  <!-- 龙虾图标 -->
+  <circle cx="200" cy="150" r="40" fill="white" opacity="0.9"/>
+  <text x="200" y="165" font-size="40" text-anchor="middle">🦞</text>
+  
+  <!-- 装饰元素 -->
+  <circle cx="80" cy="100" r="15" fill="#fed7aa"/>
+  <circle cx="320" cy="200" r="20" fill="#fed7aa"/>
+  <circle cx="350" cy="80" r="10" fill="#ffedd5"/>
+  <circle cx="60" cy="220" r="12" fill="#ffedd5"/>
+  
+  <!-- 文字 -->
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="18" fill="#9a3412" text-anchor="middle" font-weight="bold">OpenClaw 案例库</text>
+</svg>
