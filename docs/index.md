@@ -20,21 +20,27 @@ features:
   - icon: 🛒
     title: 日常购物
     details: 价格监控、智能比价、购物车管理、凑单计算，让购物更聪明
+    link: /cases/daily-shopping/price-monitor
   - icon: 📦
     title: 订单管理
     details: 批量催发货、物流追踪、自动确认收货、开发票，省时省力
+    link: /cases/order-management/batch-ship-reminder
   - icon: 🎁
     title: 送礼场景
     details: 生日提醒、节日攻略，AI 帮你选礼物，送礼不再头疼
+    link: /cases/gift-scenario/birthday-gift
   - icon: 👔
     title: 穿搭助手
     details: 衣橱数字化、每日穿搭、逛街参谋，打造个人风格
+    link: /cases/style-assistant/digital-wardrobe
   - icon: 📊
     title: 智能分析
     details: 消费账单、购物洞察，了解你的消费习惯
+    link: /cases/smart-analysis/monthly-bill
   - icon: 🏭
     title: 采购提效
     details: 批量加购、寻源比价、供应商管理，企业采购更高效
+    link: /cases/procurement/batch-add-cart
 ---
 
 <style>

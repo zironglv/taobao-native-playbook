@@ -108,8 +108,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '淘宝桌面版×玩虾集 - 让 AI 助手帮你玩转淘宝',
-      copyright: 'Copyright © 2024-present OpenClaw Team'
+      message: '淘宝桌面版×玩虾集 - 让 AI 助手帮你玩转淘宝'
     },
 
     search: {
